@@ -53,11 +53,4 @@ php artisan storage:link
 ```sh
 php artisan serve
 ```
-## Auteur 
-
-👤 **Anthony GIBILARO**
-
-* Site: [Portfolio ](https://www.a-gibilaro.com/)
-* GitHub: [@Github-GIBILARO-Anthony](https://github.com/Github-GIBILARO-Anthony)
-* LinkedIn: [@Anthony Gibilaro](https://www.linkedin.com/in/anthony-gibilaro/)
 
