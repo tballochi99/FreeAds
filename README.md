@@ -32,7 +32,7 @@ Le projet "FreeAds" est développé en utilisant le langage de programmation PHP
 1. Clonez le dépôt GitHub.
 
 ```sh
-git clone https://github.com/Github-GIBILARO-Anthony/FreeAds.git
+git clone https://github.com/tballochi99/FreeAds.git
 ```
 2. Installez les dépendances PHP avec Composer
 ```sh
